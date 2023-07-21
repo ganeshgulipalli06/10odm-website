@@ -1,0 +1,126 @@
+.elementor-3226 .elementor-element.elementor-element-15e5bbdb {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 135px 0px 0px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-ef8447a>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-ef8447a>.elementor-element-populated>.elementor-widget-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-0126642>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 24px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-2871ef9>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: flex-end;
+    align-items: flex-end;
+}
+
+.elementor-3226 .elementor-element.elementor-element-2871ef9 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 132px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-323fd3f>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-323fd3f>.elementor-element-populated>.elementor-widget-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-81e6ad3>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-81e6ad3 {
+    width: var( --container-widget-width, 516px);
+    max-width: 516px;
+    --container-widget-width: 516px;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-3226 .elementor-element.elementor-element-f2c389d.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    justify-content: flex-end;
+}
+
+.elementor-3226 .elementor-element.elementor-element-f2c389d>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-f2c389d>.elementor-element-populated>.elementor-widget-wrap {
+    padding: 0px 0px 3px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-8ed6e40>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-3226 .elementor-element.elementor-element-8ed6e40 {
+    width: auto;
+    max-width: auto;
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-3226 .elementor-element.elementor-element-323fd3f {
+        width: 100%;
+    }
+    .elementor-3226 .elementor-element.elementor-element-f2c389d {
+        width: 100%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-3226 .elementor-element.elementor-element-15e5bbdb {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 114px 0px 0px 0px;
+    }
+    .elementor-3226 .elementor-element.elementor-element-0126642>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 16px 0px;
+    }
+    .elementor-3226 .elementor-element.elementor-element-2871ef9 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 0px 135px 0px;
+    }
+    .elementor-3226 .elementor-element.elementor-element-81e6ad3 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-3226 .elementor-element.elementor-element-f2c389d.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: flex-start;
+    }
+    .elementor-3226 .elementor-element.elementor-element-f2c389d>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-3226 .elementor-element.elementor-element-f2c389d>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 31px 0px 0px 0px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-3226 .elementor-element.elementor-element-15e5bbdb {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 101px 0px 0px 0px;
+    }
+}
